@@ -1,5 +1,8 @@
 ![MapBiomas Venezuela](./mapbiomas-venezuela.png)
 
+[![Back to Venezuela All Initiatives](https://img.shields.io/badge/←%20Venezuela%20All%20Initiatives-gray?style=for-the-badge)](https://github.com/mapbiomas/venezuela-all-initiatives)
+[![Back to Collection 3](https://img.shields.io/badge/←%20Venezuela%20Collection%203-gray?style=for-the-badge)](https://github.com/mapbiomas/venezuela-collection-3)
+
 # MapBiomas Venezuela
 
 _**Natural vegetation loss and secondary vegetation Module**_
@@ -24,7 +27,6 @@ The output is a multi-band image where each band represents a year (1985–2024)
 ```text
 venezuela-sec-vegetation-veg-loss/
     └── 03-1-natural-vegetation-loss-secondary-vegetation.js
-
 ```
 
 ## How It Works
@@ -112,3 +114,11 @@ After all rules are applied, additional pixel-level corrections handle edge case
 | `outputName` | Output identifier: `natural-3` |
 
 The output is exported as a **single multi-band image** covering Venezuela's full extent at **30-meter spatial resolution**, using `mode` pyramiding.
+
+## More iformation about MapBiomas Venezuela
+
+If you are not familiar with MapBiomas workflows, check the [official methodology documentation](https://venezuela.mapbiomas.org/descripcion-general-de-la-metodologia/).
+
+For more information about MapBiomas Venezuela, visit [venezuela.mapbiomas.org](https://venezuela.mapbiomas.org).
+
+To explore the products from the available modules, visit [plataforma.venezuela.mapbiomas.org](https://plataforma.venezuela.mapbiomas.org).
