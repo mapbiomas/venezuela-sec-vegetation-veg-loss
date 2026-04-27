@@ -23,7 +23,7 @@ The output is a multi-band image where each band represents a year (1985–2024)
 
 ```text
 venezuela-sec-vegetation-veg-loss/
-    └── 04-1-natural-vegetation-loss-secondary-vegetation.js
+    └── 03-1-natural-vegetation-loss-secondary-vegetation.js
 
 ```
 
