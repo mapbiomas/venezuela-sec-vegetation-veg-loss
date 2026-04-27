@@ -115,7 +115,7 @@ After all rules are applied, additional pixel-level corrections handle edge case
 
 The output is exported as a **single multi-band image** covering Venezuela's full extent at **30-meter spatial resolution**, using `mode` pyramiding.
 
-## More iformation about MapBiomas Venezuela
+## More information about MapBiomas Venezuela
 
 If you are not familiar with MapBiomas workflows, check the [official methodology documentation](https://venezuela.mapbiomas.org/descripcion-general-de-la-metodologia/).
 
