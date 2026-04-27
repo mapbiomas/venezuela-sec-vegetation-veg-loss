@@ -1,6 +1,8 @@
 ![MapBiomas Venezuela](./mapbiomas-venezuela.png)
 
-# MapBiomas Venezuela –  Natural vegetation loss and secondary vegetation Scripts
+# MapBiomas Venezuela
+
+_**Natural vegetation loss and secondary vegetation Module**_
 
 This module detects and maps **vegetation loss and secondary vegetation dynamics** across Venezuela from **1985 to 2024**, as part of the **MapBiomas Venezuela Collection 3** pipeline. It runs on **Google Earth Engine (GEE)** and processes annual Land Use and Land Cover (LULC) classifications to identify pixel-level transitions between primary vegetation, secondary vegetation, and anthropic areas.
 
@@ -16,8 +18,6 @@ The output is a multi-band image where each band represents a year (1985–2024)
 | 5 | Recovery to Secondary Vegetation |
 | 6 | Secondary Vegetation Suppression |
 | 7 | Other transitions |
-
----
 
 ## Repository Structure
 
